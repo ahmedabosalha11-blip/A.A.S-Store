@@ -1307,7 +1307,7 @@ nav .search-section input:focus::placeholder{
 .footer{
     width: 100%;
     height: fit-content;
-    background-image: url(../imgs/footer.jpeg);
+    background-image: url(imgs/footer.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -1556,7 +1556,7 @@ body.dark-theme .container .products .heading h3 {
 body.dark-theme .footer {
     border-top: 1px solid #1C2B52;
     color: white !important;
-    background-image: url(../imgs/dark.jpeg);
+    background-image: url(imgs/dark.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
